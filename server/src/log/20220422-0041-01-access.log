@@ -1,0 +1,7 @@
+::1 - - [21/Apr/2022:12:59:09 +0000] "GET /launches HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"
+::1 - - [21/Apr/2022:12:59:09 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"
+::1 - - [21/Apr/2022:15:11:31 +0000] "POST /launches HTTP/1.1" 400 45 "-" "PostmanRuntime/7.29.0"
+::1 - - [21/Apr/2022:15:12:18 +0000] "POST /launches HTTP/1.1" 400 1109 "-" "PostmanRuntime/7.29.0"
+::1 - - [21/Apr/2022:15:12:22 +0000] "POST /launches HTTP/1.1" 500 1588 "-" "PostmanRuntime/7.29.0"
+::1 - - [21/Apr/2022:15:14:13 +0000] "POST /launches HTTP/1.1" 201 141 "-" "PostmanRuntime/7.29.0"
+::1 - - [21/Apr/2022:15:14:23 +0000] "GET /launches HTTP/1.1" 200 368 "-" "PostmanRuntime/7.29.0"

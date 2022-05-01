@@ -1,0 +1,2 @@
+::1 - - [20/Apr/2022:18:55:07 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"
+::1 - - [20/Apr/2022:18:55:07 +0000] "GET /planets HTTP/1.1" 200 247 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36"
